@@ -89,16 +89,15 @@ Cypress (E2E), NodeJS, Jira, Azure
 ```
 
 ### Defect Management
-```
+
 Bugs will be reported to their respective developers by being linked through Jira.  Bugs should have detailed steps for replication along with any relevant screenshots, text logs, database queries, videos, etc.
-```
+
 
 ### Risk Management
-```
+
 If released without sufficient testing users could lose important data, be unable to finish their surveys, and lose trust in our survey creation platform.  This could cause them to look elsewhere so testing must be sufficient and thorough of this feature.
-```
+
 
 ### Exit Parameters
-```
+
 After all manual functional and usability tests have been validated and automated E2E tests are in place and validated, then testing should be sufficient enough for release.
-```
